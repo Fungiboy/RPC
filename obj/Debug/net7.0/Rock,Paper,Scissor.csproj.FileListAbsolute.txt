@@ -1,0 +1,14 @@
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\bin\Debug\net7.0\Rock,Paper,Scissor.exe
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\bin\Debug\net7.0\Rock,Paper,Scissor.deps.json
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\bin\Debug\net7.0\Rock,Paper,Scissor.runtimeconfig.json
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\bin\Debug\net7.0\Rock,Paper,Scissor.dll
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\bin\Debug\net7.0\Rock,Paper,Scissor.pdb
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\obj\Debug\net7.0\Rock,Paper,Scissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\obj\Debug\net7.0\Rock,Paper,Scissor.AssemblyInfoInputs.cache
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\obj\Debug\net7.0\Rock,Paper,Scissor.AssemblyInfo.cs
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\obj\Debug\net7.0\Rock,Paper,Scissor.csproj.CoreCompileInputs.cache
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\obj\Debug\net7.0\Rock,Paper,Scissor.dll
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\obj\Debug\net7.0\refint\Rock,Paper,Scissor.dll
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\obj\Debug\net7.0\Rock,Paper,Scissor.pdb
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\obj\Debug\net7.0\Rock,Paper,Scissor.genruntimeconfig.cache
+C:\Users\lukas.austrell\source\repos\Rock,Paper,Scissor\obj\Debug\net7.0\ref\Rock,Paper,Scissor.dll
